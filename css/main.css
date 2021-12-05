@@ -1,0 +1,33 @@
+div.container{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+body{
+    font-family: serif;
+}
+.first h1{
+    text-transform:capitalize;
+    font-size: 2rem;
+    color: #e60808;
+}
+.under h2{
+     width:5%;
+     height: 12px;
+    background-color: #e60808;
+    border-radius:30px;
+}
+span.second p{
+    font-weight: bold;
+}
+div.card-1 , .card-2 , .card-3 {
+    display:inline-block;
+    width:33%;
+    vertical-align: top;
+}
+img{
+    width: 200px;
+}
+.card-1 h1 h2,  .card-2 h1,  .card-3  h1{
+ font-size: 1rem;
+}
